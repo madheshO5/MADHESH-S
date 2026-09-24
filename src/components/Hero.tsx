@@ -104,10 +104,9 @@ export default function Hero({ onOpenResume }: HeroProps) {
             {/* Avatar circle */}
             <div className="w-full h-full rounded-full overflow-hidden bg-[#242a36] border border-[#38bdf8]/20 relative flex items-center justify-center shadow-inner">
               <img
-                src="https://lh3.googleusercontent.com/aida-public/AB6AXuDXCTVZM3yCRVSSzeZmnC8pv7ssJbp4Q8E85oZXNo6zOUIdD9xS6ZR3l4Q9J-UIcmWqV3KE8s7eIK90pid4KukrJ9N3pHnBa_KfTusd9wTYY5BDPliTAMzS4QobxM42bEF6vikfmZCRY6B1dW7t1hnMMDeJKsD7B6kU3Tc5mjVqCr3u9zgAKIv81rjxTum2JozOuV0KSyl5JY2uCgYzvp9VUDNY6lDvjSuLyMYmE_tXIZBhKAPOrucT"
+                src="/madhesh-photo.jpg"
                 alt="Madhesh S - Data Analyst & Python Developer"
                 className="w-full h-full object-cover select-none transition-transform duration-500 hover:scale-105"
-                referrerPolicy="no-referrer"
               />
             </div>
 
